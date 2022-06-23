@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d507c888cb05c54c93962b0058c5ce7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - EnnemieLow: {fileID: 1820947116961290348, guid: 0798d49719af29c499478f6b4558c7ec, type: 3}
+  - EnnemieSpeed: {fileID: 4328531850128493227, guid: 0df144012ab74e74b96deaa096e08ddf, type: 3}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
